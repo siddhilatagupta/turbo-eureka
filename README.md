@@ -1,4 +1,4 @@
 # turbo-eureka
 This is my first repository.
 <br>
-Auther- siddhilata gupta
+Auther- Siddhi Lata (Sid)
